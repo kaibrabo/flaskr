@@ -1,0 +1,4 @@
+{
+  "tests/test_auth.py::test_login_validate_input[a-test-Incorrect Username]": true,
+  "tests/test_auth.py::test_login_validate_input[test-a-Incorrect Password]": true
+}
